@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "parollar",
+    "slug": "parollar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ce337eea-c34c-46fb-8e92-4695c25843fb"
+      }
+    }
+  },
+  "name": "parollar"
+}
